@@ -1,6 +1,6 @@
 # SmartBrain
 Simple React app and API sever
-avaScript/React Training Exercise
+JavaScript/React Exercise
 
 From the Udemy course: The Complete Web Developer: Zero to Mastery
 
@@ -14,7 +14,6 @@ URL: https:https:ttps://www.udemy.com/course/the-complete-web-developer-zero-to-
 - Sign-in form
 - Routing
 -
-- Back-end (server):
 - Signin and register
 - bcrypt
 - Storing user passwords securely
@@ -23,7 +22,6 @@ URL: https:https:ttps://www.udemy.com/course/the-complete-web-developer-zero-to-
 - Register users
 - Load/update users
 -
-- Back-end (database):
 - PostgreSQL
 - Knex
 -
