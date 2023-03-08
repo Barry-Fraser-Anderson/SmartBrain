@@ -1,6 +1,6 @@
 # SmartBrain
-Simple React app and API sever
-JavaScript/React Exercise
+Simple React app and Rest API
+A JavaScript/React Exercise
 
 From the Udemy course: The Complete Web Developer: Zero to Mastery
 
